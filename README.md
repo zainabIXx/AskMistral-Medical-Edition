@@ -1,1 +1,0 @@
-# AskMistral-Medical-Edition
